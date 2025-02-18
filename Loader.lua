@@ -1,10 +1,8 @@
 local gameScripts = {
     [1167791961] =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/tempaccount42069/KitkatHub/refs/heads/main/KnifeSimulator.lua",true))(),
-    [9876543210] = [[
-        print("Script for Game 9876543210 loaded!")
-        -- Add your script content here for game ID 9876543210
-    ]],
+    [17258520007] =
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tempaccount42069/KitkatHub/refs/heads/main/BelluPiece.lua",true))(),
     [1122334455] = [[
         print("Script for Game 1122334455 loaded!")
         -- Add your script content here for game ID 1122334455
