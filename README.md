@@ -1,3 +1,4 @@
 Supported Games (for now):
-Knife Simulator,
-Bellu Piece
+Military Madness,
+Bellu Piece,
+Knife Simulator
